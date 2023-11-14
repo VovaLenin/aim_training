@@ -1,0 +1,17 @@
+{
+  "name": "aim_training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://VovaLenin.github.io/aim_training",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
